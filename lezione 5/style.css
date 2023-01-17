@@ -1,0 +1,45 @@
+/* GENERA RESET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 2rem;
+}
+
+button {
+    padding: 1rem 2rem;
+}
+
+.quadrato {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    margin: 30px;
+}
+
+.parte_2 {
+    margin: 1rem 0;
+}
+
+#p_accordion {
+    background-color: lightgrey;
+    padding: 1rem;
+    display: none;
+}
+
+h4 {
+    background-color: lightgrey;
+    padding: 1rem;
+}
+
+.pt2 {
+    margin: 1rem 0;
+}
+
+.pt2 p {
+    display: none;
+}

@@ -1,0 +1,22 @@
+/* GENERA RESET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 2rem;
+}
+
+button {
+    padding: 1rem 2rem;
+}
+
+.quadrato {
+    width: 150px;
+    height: 150px;
+    background-color: lightgrey;
+    margin: 30px;
+}

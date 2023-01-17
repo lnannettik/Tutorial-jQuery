@@ -1,0 +1,29 @@
+/* GENERA RESET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 2rem;
+}
+
+button {
+    padding: 1rem 2rem;
+}
+
+body > * {
+    margin-bottom: 1.5rem;
+}
+
+#fuori {
+    background-color: cadetblue;
+}
+
+.container {
+    background-color: salmon;
+    width: 200px;
+    height: 200px;
+}
